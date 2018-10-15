@@ -9,6 +9,9 @@
         <img src="@/assets/img/Advert02.png">
         <img src="@/assets/img/Advert03.png">
         <img src="@/assets/img/Advert04.png">
+        <img src="@/assets/img/Advert05.png">
+        <img src="@/assets/img/Advert06.png">
+        <img src="@/assets/img/Advert07.png">
       </div>
     </span>
   </div>
