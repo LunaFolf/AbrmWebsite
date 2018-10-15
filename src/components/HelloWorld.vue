@@ -3,6 +3,12 @@
     <span style="margin:0; padding:0">
       <h1>ABRM<span class="line1"></span><span class="line2"></span></h1>
       <p>Because we have nothing better to do.</p>
+      <div class="images">
+        <img src="@/assets/img/Advert01.png">
+        <img src="@/assets/img/Advert02.png">
+        <img src="@/assets/img/Advert03.png">
+        <img src="@/assets/img/Advert04.png">
+      </div>
     </span>
   </div>
 </template>
@@ -20,6 +26,11 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+img {
+  height: 75vh;
+  border: 1px solid black;
+  filter: drop-shadow(-2px 5px 5px black);
+}
 h1, h2 {
   font-weight: bold;
   font-family: 'IBM Plex Sans', sans-serif;
