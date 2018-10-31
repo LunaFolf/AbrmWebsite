@@ -3,6 +3,7 @@
     <a href="/#/">Home</a>
     <a href="/#/portfolio">Portfolio / Gallery</a>
     <a href="/#/legal">The legal bit</a>
+    <a href="/#/donate">Donate</a>
   </div>
 </template>
 

@@ -13,11 +13,8 @@
 </template>
 
 <script>
-import appNavbar from './navbar.vue'
-import VueTinytyper from 'vue-tinytyper'
 export default {
   name: 'Legal',
-  components: {appNavbar, VueTinytyper},
   mounted () {
   }
 }
