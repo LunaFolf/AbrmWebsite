@@ -18,7 +18,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## Legal bit
 
-ABRM is a parody of fictional and non-fictional entities such as IBM (Non-fictional), Lenovo (Non-fictional), Aperture Sciecnce (Fictional), Apple Inc (Non-fictional).
+ABRM is a parody of fictional and non-fictional entities such as IBM (Non-fictional), Lenovo (Non-fictional), Aperture Science (Fictional), Apple Inc (Non-fictional).
 ABRM is non profit, and is an entity designed for amusment.
 
-For copyright concerns or other concerns, contact Liam Holmes @ LiamHolmes150800@outlook.com
+For copyright concerns or other concerns, contact Liam Holmes @ email@liamholmes.co.uk
