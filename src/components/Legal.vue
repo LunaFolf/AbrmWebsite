@@ -6,7 +6,7 @@
       <p>It's boring but we have to do it.</p>
       <p>ABRM is a parody of fictional and non-fictional entities such as IBM (Non-fictional), Aperture Science (Fictional), Apple Inc (Non-fictional).</p>
       <p>ABRM is non profit, and is an entity designed primarily and only for amusement.</p>
-      <p>If you have any concerns, either general or relating to the copyright of material, contact Liam Holmes at <a href="mailto:liamholmes150800@outlook.com?Subject=ABRM%20Complaint">LiamHolmes150800@outlook.com</a>.</p>
+      <p>If you have any concerns, either general or relating to the copyright of material, contact Liam Holmes at <a href="mailto:email@liamholmes.co.uk?Subject=ABRM%20Complaint">email@liamholmes.co.uk</a>.</p>
       <p>To make it easier to respond as quickly as possible to your concerns, please make sure the subject of your email contains 'ABRM', this helps to filter emails.</p>
     </span>
   </div>
